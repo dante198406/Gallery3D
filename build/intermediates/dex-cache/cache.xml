@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b9048b4106f876b21e5697b7700e7775cbc98e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_ac6924a2aacffb25e0828236db673d0c0907c414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_2a71c533a35dbced2395c9e11a50dddaa14e7985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_cfd5305245662c3f942bd7a69e9d4b5f1bf608a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_5b438988f2c8fc07960e572c499f64e13e5fb0c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_e8907ea1c29535ee1a80d79866af373b46fefd6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.1.0_b1b3e654bcebdbbabda30f2cfe36543d001ab0cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.1.0_73ddd51f98621c3a07fe6bfd2b203a31044a4947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_aced26ed6f8dd2ac06b5d81e91273902157fe779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6ad5f0ddfaa2b921c6dd5f6d5e05af8c9b8ef927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_85cf4338fe10980aea6c5c84c8553cf097ec0720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_e3f7a6b3d36d01aa249859c26bf28fad5972953b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1477169344b2f69a0fd37d461e404cc1e5084501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_b1ff22416b9025cbd29ecf30198da3cee61c0359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_739a1de541afccd562ccf31b046176d53d28e5d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_614f7a38a185434e845dace930d6eaf9eac4d61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\Gallery3D\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_79966281166f1d74e5193cf54092df729743a952.jar" />
+    </item>
+
+</items>
